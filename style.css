@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(22, 169, 189);
+}
+
+        h1 {
+            padding-top: 40px;
+            padding-bottom: 40px;
+            text-align: center;
+            color: #000000;
+            font-family: 'Montserrat', sans-serif;
+        }
+          
+        section {
+            padding: 5%;
+            padding-top: 0;
+            height: 100vh;
+        }
+          
+        .side {
+            margin-left: 0;
+        }
+          
+        button {
+            margin: 10px;
+            border-color: #000000 !important;
+            color: #000000 !important;
+            margin-bottom: 25px;
+        }
+          
+        button:hover {
+            background-color: #25b3b8 !important;
+        }
+          
+        textarea {
+            padding: 3%;
+            border-color: #000000;
+            border-width: thick;
+        }
+          
+        .flex-box {
+            display: flex;
+            justify-content: center;
+        }
+    
